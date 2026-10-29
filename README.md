@@ -1,8 +1,8 @@
 ### Hi, I'm Eunsoo 👋
 
-I study how vision-language models interpret charts and tables and ground their reasoning in visual evidence.
+I'm a multimodal AI researcher specializing in prompt design, synthetic data generation, and domain adaptation for multimodal large language models (MLLMs).
 
-My goal is to build compact, reliable models, with an interest in medical AI applications.
+My work focuses on visual grounding and reasoning, with applications in chart and table understanding and medical AI.
 
 ### Education
 
