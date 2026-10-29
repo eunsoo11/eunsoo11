@@ -1,8 +1,8 @@
 ### Hi, I'm Eunsoo 👋
 
-I'm a multimodal AI researcher specializing in prompt design, synthetic data generation, and domain adaptation for multimodal large language models (MLLMs).
+I'm a multimodal AI researcher.
 
-My work focuses on visual grounding and reasoning, with applications in chart and table understanding and medical AI.
+My work focuses on visual grounding, complex reasoning, prompt design, synthetic data generation, and domain-specific multimodal large language models (MLLMs).
 
 ### Education
 
