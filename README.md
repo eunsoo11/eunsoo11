@@ -1,10 +1,7 @@
 ### Hi, I'm Eunsoo 👋
 
-I'm an AI researcher focusing on multimodal AI, vision-language models (VLMs), and visual reasoning.
+I study how vision-language models interpret charts and tables and ground their reasoning in visual evidence.
 
-My work focuses on building compact, well-grounded multimodal models for chart and table understanding, with applications in medical AI.
+My goal is to build compact, reliable models, with an interest in medical AI applications.
 
-#### Links
-
-- Publications: [ACL Anthology](https://aclanthology.org/people/eunsoo-lee/)
-- Research: [VisDoT (Findings of EACL 2026)](https://aclanthology.org/2026.findings-eacl.30/)
+Publications: [ACL Anthology](https://aclanthology.org/people/eunsoo-lee/)
